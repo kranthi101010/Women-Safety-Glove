@@ -1,0 +1,3 @@
+Women Safety Glove :
+A sensor integrated glove that detects a certain hand gestures performed by women, when in danger and transmits GPS location and SOS message to registered mobile number.
+The glove is desigined by using Arduino,GPS,MPU6050.
